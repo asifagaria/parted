@@ -11,3 +11,5 @@ Type Y
 > print
 
 > quite
+
+> mkfs.ext4 /dev/sdb1
