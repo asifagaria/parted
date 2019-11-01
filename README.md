@@ -4,7 +4,7 @@
 
 > mklabel gpt
 
-Type Y
+> Type Y
 
 > mkpart primary ext4 0% 100%
 
