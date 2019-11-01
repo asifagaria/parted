@@ -10,6 +10,6 @@ Type Y
 
 > print
 
-> quite
+> quit
 
 > mkfs.ext4 /dev/sdb1
